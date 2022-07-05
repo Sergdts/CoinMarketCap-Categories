@@ -9,5 +9,5 @@ As a trader, I wanted to see where and how the money are distributed in USD amon
 
 Data source - https://coinmarketcap.com/
 
-Attention! The code want work without your API key (line 2, variable = "headers")
+Attention! The code will not work without your API key (line 2, variable = "headers")
 
